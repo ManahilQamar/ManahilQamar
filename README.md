@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManahilQamar
-- 👀# 💫 About Me:
-🤝 I'm looking to collaborate on:<br>Frontend projects, UI/UX designs, and creative web apps.<br><br>💻 I'm looking for help with:<br>Mastering backend technologies like Node.js and databases.<br><br>🌱 I'm currently learning:<br>Next.js, backend development, and improving problem-solving with JavaScript.<br><br>💬 Ask me about:<br>Frontend development, CSS magic, animations, and how to make websites look awesome.<br><br>⚡ Fun fact:<br>I can turn boring designs into eye-catching, interactive websites—like magic but with code!<br>
+- 💫 About Me:
+👀 I'm looking to collaborate on:<br>Frontend projects, UI/UX designs, and creative web apps.<br><br>💻 I'm looking for help with:<br>Mastering backend technologies like Node.js and databases.<br><br>🌱 I'm currently learning:<br>Next.js, backend development, and improving problem-solving with JavaScript.<br><br>💬 Ask me about:<br>Frontend development, CSS magic, animations, and how to make websites look awesome.<br><br>⚡ Fun fact:<br>I can turn boring designs into eye-catching, interactive websites—like magic but with code!<br>
 
 
 ## 🌐 Socials:
