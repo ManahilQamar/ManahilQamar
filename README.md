@@ -33,7 +33,7 @@ A full-stack learning platform designed for Virtual University BSCS students.
 - REST API based architecture
 - Production deployment with Vercel
 
-**Live:** https://vu-game.vercel.app/
+**Live:** https://vu-study-app.vercel.app/
 
 ---
 
